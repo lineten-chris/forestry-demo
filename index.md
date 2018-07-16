@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2018/07/16/header.jpg"
 layout: landing-page
 heading: INTEGRATE, AGGREGATE, DELIVERY FOR ALL
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - heading: NOQU Online
   description: White-label online ordering platform
