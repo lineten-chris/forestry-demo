@@ -1,23 +1,28 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+banner_image: ''
+heading: About Lineten
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: INTEGRATE, AGGREGATE, DELIVERY FOR ALL
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+Lineten was formed in 2013 to sustainably combat the underutilisation of delivery assets.
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+Led by some of the best minds in the telecoms industry pioneering B2B auto-activations, we developed technology that would create a community for delivery providers to own and share a space, optimising our platform as a funnel for delivery opportunities.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+The platform was built on two pillars: Integration and Aggregation.
+
+Through our aggregation technology, we defined a place where every delivery company could harness their potential and grow to meet the demands of their customers.
+
+At Lineten, we coined ‘Delivery for all’, not because we love catchy lines (we do) but because we are one of few that can definitively enhance the capabilities of every delivery provider, it’s users and of course the experience of the customer.
