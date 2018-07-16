@@ -8,12 +8,15 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- heading: NOQU Delivery
-  description: Aggregated delivery api and dashboard
-  icon: "/uploads/2018/07/16/noqu_delivery.png"
+- heading: NOQU POS Bridge
+  description: POS integration
+  icon: ''
 - heading: NOQU Online
   description: White-label online ordering platform
   icon: "/uploads/2018/07/16/noqu.png"
+- heading: NOQU Delivery
+  description: Aggregated delivery api and dashboard
+  icon: "/uploads/2018/07/16/noqu_delivery.png"
 sub_heading: Own the customer with Lineten. We don’t expect everyone to be a perfect
   fit, simply bold in their endeavours
 textline: Lineten description
