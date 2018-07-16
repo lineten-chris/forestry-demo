@@ -23,7 +23,7 @@ textline: Lineten description
 hero_button:
   text: I WANT A DEMO
   href: "/demo"
-show_news: true
+show_news: false
 show_staff: true
 menu:
   navigation:
