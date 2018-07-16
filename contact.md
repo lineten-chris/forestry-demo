@@ -13,7 +13,7 @@ menu:
 ---
 ## Hours of Operation
 
-Belkirk College of Engineering is available:
+Lineten is available:
 
 * **Monday-Friday**, 9:00am to 6:00pm
 * **Weekend**, 9:00am to 6:00pm
