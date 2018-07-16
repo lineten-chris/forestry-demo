@@ -8,20 +8,12 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- heading: NOQU Online
+  description: White-label online ordering platform
+  icon: "/uploads/2018/07/16/noqu.png"
 sub_heading: Own the customer with Lineten. We don’t expect everyone to be a perfect
   fit, simply bold in their endeavours
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Lineten description
 hero_button:
   text: I WANT A DEMO
   href: "/demo"
