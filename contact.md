@@ -1,9 +1,9 @@
 ---
 title: Contact
-date: 2017-11-01 03:00:00 +0000
+date: ''
 banner_image: https://www.google.co.uk/maps/place/London+W12/@51.5125102,-0.228256,17.71z/data=!4m5!3m4!1s0x48760e24d2bfa55f:0x1165ff9d68fc9627!8m2!3d51.5095281!4d-0.229236
 heading: Contact Lineten
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: ''
 show_staff: true
 menu:
   navigation:
